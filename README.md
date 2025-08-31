@@ -1,4 +1,5 @@
-**Omega Deck** is a portable [writerDeck](https://www.reddit.com/r/writerDeck/) with a split keyboard.
+# Omega Deck
+> A portable [writerDeck](https://www.reddit.com/r/writerDeck/) with a split keyboard.
 
 ## Version 0.1.0 - 2025-08-30
 
