@@ -9,9 +9,9 @@ It's inspired by the [Micro Journal Rev.4](https://github.com/unkyulee/micro-jou
 ### Design Highlights
 
 - 60-key ortholinear split layout, similar to the _Nyquist by Keebio_ or the _SP50 by KPrepublic_
+- Hot-swappable, Cherry MX-style switches
 - Integrated wrist rest
 - LCD or e-ink screen embedded between the two keyboard halves at a fixed tilt angle within the enclosure, recessed but angled toward the user, with the higher edge flush with the top surface
-- Hot-swappable, Cherry MX-style switches
 - Powered by rechargeable batteries
 - Runs Vim on a minimal Linux install
 
