@@ -9,8 +9,8 @@ It's inspired by the [Micro Journal Rev.4](https://github.com/unkyulee/micro-jou
 
 - 60-key split layout, similar to the _Nyquist by Keebio_ or the _SP50 by KPrepublic_
 - Integrated wrist rest
-- Flat e-ink or LCD screen embedded between the two keyboard halves, lying flush with the typing surface
-- Hot-swappable switches
+- Flat e-ink or LCD screen embedded between the two keyboard halves at a fixed tilt angle within the enclosure—recessed but angled toward the user, with the higher edge flush with the top surface
+- Hot-swappable, Cherry MX-style switches
 - Powered by rechargeable batteries
 - Runs Vim on a minimal Linux install
 
