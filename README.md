@@ -27,7 +27,7 @@ It's inspired by the [Micro Journal Rev.4](https://github.com/unkyulee/micro-jou
 ### Aesthetic Inspiration:
 - Split keyboard like the [Micro Journal Rev.4](https://github.com/unkyulee/micro-journal/tree/main/micro-journal-rev-4-esp32)
 - Handle for portability like the [Robinson Writerdeck](https://www.reddit.com/r/cyberDeck/comments/1lqqbza/presenting_the_robinson_writerdeck/)
-- Flat, simple, slate–style look, like the [Freewrite Alpha](https://getfreewrite.com/products/alpha).
+- Flat, simple, slate–style look, like the [Freewrite Alpha](https://getfreewrite.com/products/alpha)
 
 ### Resources
 - [Reddit](https://www.reddit.com/r/writerDeck/comments/1n3sjkk/)
