@@ -1,5 +1,15 @@
 # Omega Deck
-> A portable [writerDeck](https://www.reddit.com/r/writerDeck/) with a split keyboard.
+
+> A portable [writerDeck](https://www.reddit.com/r/writerDeck/) built around a split mechanical keyboard.
+
+The **Omega Deck** is designed for focused writing, with features that matter most to me:
+
+- **Portability**: easy to carry anywhere.
+- **Long battery life**: no need to worry about charging.
+- **Instant boot**: ready to write at a moment’s notice.
+- **Single purpose**: distraction-free by design.
+- **Automatic sync**: seamless backup of every draft.
+- **Split mechanical keyboard**: ergonomic and comfortable for long sessions.
 
 ## Model A
 > Version 0.1.0 - 2025-08-30
