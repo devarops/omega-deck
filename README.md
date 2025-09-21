@@ -30,5 +30,5 @@ It's inspired by the [Micro Journal Rev.4](https://github.com/unkyulee/micro-jou
 - Flat, simple, slate–style look, like the [Freewrite Alpha](https://getfreewrite.com/products/alpha)
 
 ### Resources
-- [Reddit](https://www.reddit.com/r/writerDeck/comments/1n3sjkk/)
+- [Reddit](https://www.reddit.com/r/writerDeck/search/?q=%22Omega+Deck%22)
 - [Onshape](https://cad.onshape.com/documents/4c4202efe9bf0bd5a2252168/)
